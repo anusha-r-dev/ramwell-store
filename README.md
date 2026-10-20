@@ -2,6 +2,22 @@
 
 Ramwell Store is a performance-focused e-commerce catalog built with Next.js App Router, TypeScript, and Tailwind CSS. It demonstrates production frontend patterns through an original marketplace interface rather than copying an existing brand.
 
+## Live application
+
+**Expected Vercel URL:** [https://ramwell-store.vercel.app](https://ramwell-store.vercel.app)
+
+The address will become active after the `main` branch is deployed to a Vercel project named exactly `ramwell-store`. Until then, follow the local setup instructions below.
+
+## Application preview
+
+### Storefront
+
+<img src="public/screenshots/ramwell-store-catalog.png" alt="Ramwell Store homepage with catalog introduction and marketplace summary" width="100%" />
+
+### Product details
+
+<img src="public/screenshots/ramwell-store-product-detail.png" alt="Ramwell Store product detail page for Auralight ANC Headphones" width="100%" />
+
 ## Highlights
 
 - Responsive catalog with 2,160 typed product configurations built from 30 distinct product models
