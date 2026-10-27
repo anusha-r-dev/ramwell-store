@@ -4,9 +4,7 @@ Ramwell Store is a performance-focused e-commerce catalog built with Next.js App
 
 ## Live application
 
-**Expected Vercel URL:** [https://ramwell-store.vercel.app](https://ramwell-store.vercel.app)
-
-The address will become active after the `main` branch is deployed to a Vercel project named exactly `ramwell-store`. Until then, follow the local setup instructions below.
+**Live Url:** [https://ramwell-store.vercel.app](https://ramwell-store.vercel.app)
 
 ## Application preview
 
